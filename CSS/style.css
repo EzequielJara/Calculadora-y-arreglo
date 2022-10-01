@@ -1,0 +1,26 @@
+*{
+    font-family: sans-serif;
+    text-align: center;
+    background-color:darkgray;
+}
+.Calculadora{
+    position: relative;
+    top: 50%;
+    left: 40%;
+    margin-top: 10%;
+    background-color: darkcyan;
+    width: 250px;
+    height: 200px;
+    border-radius: 4px;
+}
+input{
+    margin-bottom: 15px;
+    background-color: #fff;
+}
+.Letra{
+    color: #fff;
+    background-color:darkcyan;
+}
+.resultado{
+    color: #fff;
+}
